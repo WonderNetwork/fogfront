@@ -1,6 +1,6 @@
 # FogFront
 
-Migrate from Fogbugz (self hosted) to FrontApp.
+Migrate from [Fogbugz](https://www.fogcreek.com/fogbugz/) (self hosted) to [FrontApp](https://frontapp.com/).
 
 It's entirely possible that we're the only people to ever need to make this migration, but on the off chance we're not, here's some codes.
 
